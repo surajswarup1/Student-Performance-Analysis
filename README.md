@@ -2,7 +2,7 @@
 
 [MLB Pitching Dashboard ](https://public.tableau.com/app/profile/suraj.swarup/viz/PitchingDashboard_SSwar/Dashboard1)
 
-[College Stats Dashboard 2022 (https://public.tableau.com/app/profile/suraj.swarup/viz/AmericanCollege2022/Dashboard1)]
+[College Stats Dashboard 2022](https://public.tableau.com/app/profile/suraj.swarup/viz/AmericanCollege2022/Dashboard1)
 
 [Spotify Dashboard ](https://public.tableau.com/app/profile/suraj.swarup/viz/SpotifyDashboard_SSwar/Dashboard1)
 
